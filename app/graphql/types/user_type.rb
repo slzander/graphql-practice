@@ -9,6 +9,5 @@ module Types
     def posts_count
       object.posts.size
     end
-
   end
 end
